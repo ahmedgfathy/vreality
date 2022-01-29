@@ -1,0 +1,19 @@
+{
+    "name": "jethosted/reality",
+    "description": "Real estates CRM",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jethosted\\Reality\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Fathy",
+            "email": "ahmedgfathy@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
