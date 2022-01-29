@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "bootstrap": "^5.1.3"
-  }
+  },
+  "name": "vreality-erp",
+  "description": "Vtiger CRM ==========",
+  "version": "1.0.0",
+  "main": "pwa.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "erp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedgfathy/vreality.git"
+  },
+  "keywords": [
+    "vreality"
+  ],
+  "author": "AhmedGFathy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedgfathy/vreality/issues"
+  },
+  "homepage": "https://github.com/ahmedgfathy/vreality#readme"
 }
